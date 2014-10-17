@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{4B42911F-4EB1-4FDC-9602-0DF0B74AD1EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateTestsLib", "StateTestsLib.csproj", "{258BF428-34DA-4AF5-B6B4-36F4ACDDBF6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{4B42911F-4EB1-4FDC-9602-0DF0B74AD1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B42911F-4EB1-4FDC-9602-0DF0B74AD1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B42911F-4EB1-4FDC-9602-0DF0B74AD1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258BF428-34DA-4AF5-B6B4-36F4ACDDBF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258BF428-34DA-4AF5-B6B4-36F4ACDDBF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258BF428-34DA-4AF5-B6B4-36F4ACDDBF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258BF428-34DA-4AF5-B6B4-36F4ACDDBF6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
